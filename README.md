@@ -1,8 +1,7 @@
 # Proceso-de-compra-Amazon
 
 Proyecto Proceso de compra Amazon
-Avance
-                          ____________________________________________
+               
 Febrero 2021
 Versión 0.1
 
@@ -12,12 +11,6 @@ Miembros del equipo
 Rebeca Fernandez
 Barbara Vindas
 Isaac Fernandez
-
-
-
-
-
-
 
 Requerimientos de Proyecto
 Proceso de compra Amazon que incluya al menos:

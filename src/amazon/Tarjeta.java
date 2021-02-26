@@ -92,7 +92,6 @@ public class Tarjeta {
 	 * @param cvv
 	 */
 	public Tarjeta(int numero, String nombre, int mes, int año, int cvv) {
-		super();
 		this.numero = numero;
 		this.nombre = nombre;
 		this.mes = mes;

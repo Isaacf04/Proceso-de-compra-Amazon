@@ -80,6 +80,7 @@ public class Envio implements Usuario {
 		return "El Envio es:"+ " "+ "tipo=" + " "+ tipo + " "+ "precio=" + " "+ precio + " "+  "pais=" + " "+  pais;
 	}
 
+	//metodos interfaz
 	@Override
 	public void iniciarsesion() {
 		// TODO Auto-generated method stub

@@ -9,11 +9,11 @@ package amazon;
  */
 public class Tarjeta {
 
-	private int numero;
+	protected int numero;
 	private String nombre;
 	private int mes;
 	private int año;
-	private int cvv;
+	protected int cvv;
 	
 	//set - get
 	/**
